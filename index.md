@@ -4,7 +4,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/maielhadad99/Linear_Regression_Project.git)
+[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/meenumalli/linearregression_proj/blob/main/Untitled30.ipynb)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
@@ -21,7 +21,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Prediction of user interest using bank data](https://github.com/maielhadad99/Logistic_Regression_Project..git)
+[Prediction of user interest using bank data](https://github.com/meenumalli/Logisticregression_bankproj/blob/main/Logisticregression3.ipynb)
 
 <img src="images/bank image.jpeg?raw=true"/>
 
@@ -30,14 +30,14 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Project Objective:** In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
 The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
-**Quantifiable result:** We could Classify the type of tumor resulting in 86% accuracy using Logistic Regression and SMOTE .
+**Quantifiable result:** We could Classify the type of tumor resulting in 94% accuracy using Logistic Regression and SMOTE .
 
 - in this project we are given real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
 - The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/maielhadad99/Knn_Nb_Project.git)
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/meenumalli/KNN-NaiveBayesProject/blob/main/Untitled32.ipynb)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
@@ -53,7 +53,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/maielhadad99/DT_Ensemble_Project.git)
+[TalkingData Project on Bagging and Boosting ensemble model:](https://colab.research.google.com/drive/16q6tPhTok9RRhGnA9N3dC_EDKPR6XrUY#scrollTo=MHdBsDecB2iv)
 
 <img src="images/Mobile.jpeg?raw=true"/>
 
@@ -61,7 +61,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
 
-**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 99% .
+**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 93% .
 
 - Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
 - Compared predictive performance by fitting a BaggingClassifier model to the data
@@ -69,7 +69,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[The San Francisco Project on Clustering](https://github.com/maielhadad99/Clustring_Project.git)
+[The San Francisco Project on Clustering](https://github.com/meenumalli/Clustering-kmeans/blob/main/kmeans_clustering%20(2).ipynb)
 
 <img src="images/clusters.png?raw=true"/>
 
@@ -102,17 +102,17 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Implementing Deep Neutral Network with Keras for handwritting classification and recognition](https://github.com/maielhadad99/Hand_Writting_Recognition_Project.git)
+[Implementing Deep Neutral Network with Keras for Image classification and recognition](https://github.com/meenumalli/Deeplearning_imgclassify/blob/main/Deeplearning_impclassification.ipynb)
 
  <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
 
 <b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
 
-<b>Project Objective:</b> Implementing Deep Neural Network with Keras for handwritting classification and recognition
+<b>Project Objective:</b> Implementing Deep Neural Network with Keras for image classification and recognition
 
 <b>Quantifiable Results:</b>
 
-  - Loss = 0.037 - 0.9909 = Final Model Eval = 99.0899%
+  - Loss = 0.37
   - Load the data
   - Initial data indagation
   - Initial EDA
